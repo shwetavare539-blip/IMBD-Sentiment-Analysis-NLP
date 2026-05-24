@@ -2,7 +2,7 @@ IMDB Sentiment Analysis using NLP
 
 This project classifies movie reviews as Positive or Negative using NLP techniques.
 
- ##Objective
+ #Objective
 To predict whether a movie review is positive or negative.
 
  Technologies Used
