@@ -1,4 +1,4 @@
-#  IMDB Sentiment Analysis using NLP
+IMDB Sentiment Analysis using NLP
 
 This project classifies movie reviews as Positive or Negative using NLP techniques.
 
