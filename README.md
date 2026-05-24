@@ -1,11 +1,11 @@
-# 🎬 IMDB Sentiment Analysis using NLP
+#  IMDB Sentiment Analysis using NLP
 
 This project classifies movie reviews as Positive or Negative using NLP techniques.
 
-## 📌 Objective
+ ##Objective
 To predict whether a movie review is positive or negative.
 
-## 🛠️ Technologies Used
+ Technologies Used
 - Python
 - Pandas
 - NLTK (Stopwords removal)
@@ -13,16 +13,16 @@ To predict whether a movie review is positive or negative.
 - TF-IDF
 - Naive Bayes
 
-## ⚙️ Steps Performed
+## Steps Performed
 1. Data Cleaning  
 2. Text Vectorization  
 3. Model Training  
 4. Model Evaluation  
 5. Confusion Matrix  
 
-## 📊 Result
+##  Result
 Model successfully predicts sentiment of reviews.
 
-## 📁 Dataset
+##  Dataset
 IMDB Dataset (not included)  
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
